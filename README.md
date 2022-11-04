@@ -5,7 +5,7 @@
 #### C programming - data structure - multiprocess management
 
 ## How to use
-<sub>first step: compilation with a Makefile</sub>
+<sub>first step: compile with the Makefile</sub>
 
 <sub>use ```make```</sub>
 
