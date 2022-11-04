@@ -1,10 +1,10 @@
 # MINISHELL
-##### A tiny bash-like shell
+#### A tiny bash-like shell
 
-# About the project
-##### c programing - data structure - multiprocess managment
+## About the project
+#### C programming - data structure - multiprocess management
 
-# How to use
+## How to use
 <sub>first step: compilation with a Makefile</sub>
 
 <sub>use ```make```</sub>
@@ -13,6 +13,7 @@
 
 <sub>use ```./minishell``` </sub>
 
-# Go further
-<sub>This is a home made shell with complex c programing</sub>
+## Go further
+<sub>This is a home made shell with complex c programming</sub>
+
 <sub>Enjoy pimping up your shell</sub>
